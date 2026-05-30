@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authcender",
+        "uuid": 9339545,
+        "checksum": "fem24"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
